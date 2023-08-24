@@ -1,0 +1,4 @@
+name: DriPlugin
+version: '${project.version}'
+main: me.dri.driplugin.DriPlugin
+api-version: '1.20'

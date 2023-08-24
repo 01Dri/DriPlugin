@@ -1,0 +1,4 @@
+name: DriPlugin
+version: '1.0-SNAPSHOT'
+main: me.dri.driplugin.DriPlugin
+api-version: '1.20'

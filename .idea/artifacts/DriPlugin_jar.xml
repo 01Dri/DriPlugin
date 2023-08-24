@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DriPlugin:jar">
+    <output-path>$USER_HOME$/Desktop/Server Mine Testes/plugins</output-path>
+    <root id="archive" name="DriPlugin.jar">
+      <element id="module-output" name="DriPlugin" />
+    </root>
+  </artifact>
+</component>
